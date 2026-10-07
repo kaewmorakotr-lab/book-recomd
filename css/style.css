@@ -1,0 +1,27 @@
+body {
+    background-color:#181413 ;
+    color: #efefef;
+}
+
+.whyfont {
+    color: #efefef;
+
+}
+
+.mit-medium {
+  font-family: "Mitr", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+p {
+  font-family: "Niramit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fontp {
+  font-family: "Niramit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
