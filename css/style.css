@@ -10,18 +10,44 @@ body {
 
 .mit-medium {
   font-family: "Mitr", sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-style: normal;
 }
 
 p {
   font-family: "Niramit", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
 
 .fontp {
   font-family: "Niramit", sans-serif;
-  font-weight: 500;
+  font-weight: 300;
   font-style: normal;
+}
+
+span {
+color: #BA0900;
+ font-size: 1.5em;
+}
+
+.yellp{
+  color: #F1BD61 !important;
+
+}
+
+.bookt {
+    font-size: 3.5em;
+    
+}
+
+
+.sizep {
+    font-size: 20px;
+   
+}
+
+.sizeh {
+    font-size: 40px;
+   
 }
