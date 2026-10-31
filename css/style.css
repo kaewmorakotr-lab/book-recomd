@@ -54,8 +54,18 @@ color: #BA0900;
 
 .sizew {
     font-size: 25px;
-   
+    line-height: 1.6;
+    margin-bottom: 20px;
 }
+
 .indent {
   text-indent: 30px
 }
+
+.mar {
+    margin-bottom: 60px;
+    
+}
+
+
+   
